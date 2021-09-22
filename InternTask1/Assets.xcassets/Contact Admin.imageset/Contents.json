@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "admin-with-cogwheels.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
